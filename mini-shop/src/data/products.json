@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "image": "https://m.media-amazon.com/images/I/41JACWT-wWL._SX522_.jpg",
+    "price": 2499,
+    "category": "Electronics",
+    "rating": 4.5,
+    "description": "Over-ear wireless headphones with deep bass and up to 20 hours of battery life."
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "image": "https://assets.myntassets.com/h_1440,q_75,w_1080/v1/assets/images/1758370/2017/2/14/11487064119833-Apple-Series-1-Unisex-Black-38-mm-Smart-Watch-6321487064119838-1.jpg",
+    "price": 3999,
+    "category": "Electronics",
+    "rating": 4.3,
+    "description": "Track your steps, heart rate and notifications right from your wrist."
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQnMmWRZQ5wwdJxvebSS0S5AW93dxRFLe8UbFjeAng7Sccmu2ajiXoOrKoYqvhCSi9B8g18A6TSAvSQIhrXtagBPFheBc1FzOsFrfkxvqxTXPJRTgGoQcRlTDT3KAQ2sZu4NswmTStfqPM&usqp=CAc",
+    "price": 1799,
+    "category": "Electronics",
+    "rating": 4.4,
+    "description": "Portable speaker with clear sound and a splash-proof body."
+  },
+  {
+    "id": 4,
+    "name": "Running Shoes",
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSAoFpSFOTgOyxbcgYJe8Bjqla4SGrSE2ztzFzg7n_pvRDEcY9cibUr6cXFGdhTtfSEoxTRFXBHPB50q1KUlLWi2R4OR7nj2Qi0KC9NvftE1YvYMaPsnPja3vEkjk7-r3a4byooIkw&usqp=CAc",
+    "price": 2999,
+    "category": "Fashion",
+    "rating": 4.2,
+    "description": "Lightweight, breathable running shoes with a soft cushioned sole."
+  },
+  {
+    "id": 5,
+    "name": "Denim Jacket",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhu7oR6-GOAX6FK2cCPN-d0fC58QW-t7oeZGo3HENrgA&s",
+    "price": 2199,
+    "category": "Fashion",
+    "rating": 4.0,
+    "description": "Classic blue denim jacket that goes well with almost any outfit."
+  },
+  {
+    "id": 6,
+    "name": "Backpack",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMJlIRrzAheYCWTXhLyUeG3ylMLdpM9mKCzTTPJq8iCw&s=10",
+    "price": 1499,
+    "category": "Fashion",
+    "rating": 4.6,
+    "description": "Spacious backpack with a padded laptop compartment and water-resistant fabric."
+  },
+  {
+    "id": 7,
+    "name": "Ceramic Coffee Mug",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH7qFTl2gUlpYYR-Un7yw0Ahp19sfGJtkqsEXIapFUyQ&s=10",
+    "price": 399,
+    "category": "Home",
+    "rating": 4.1,
+    "description": "Sturdy 350 ml ceramic mug, microwave and dishwasher safe."
+  },
+  {
+    "id": 8,
+    "name": "Desk Lamp",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4xE6HXXPSIBRBrT4zObqt25UHei8IgSvOMwGN3TBncQ&s=10",
+    "price": 899,
+    "category": "Home",
+    "rating": 4.4,
+    "description": "LED desk lamp with adjustable brightness and a flexible neck."
+  },
+  {
+    "id": 9,
+    "name": "Notebook Set",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxpfYRCcRbsQ4ggrh0C9o8g00tnMlZWh4oVINhXkC6MA&s",
+    "price": 299,
+    "category": "Stationery",
+    "rating": 4.7,
+    "description": "Set of three ruled notebooks with thick paper and a durable cover."
+  },
+  {
+    "id": 10,
+    "name": "Gel Pen Pack",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReS_Gd2AkBYXWuKrr0992SDwdCiuvXjD7GECVqW9OmMg&s=10",
+    "price": 149,
+    "category": "Stationery",
+    "rating": 4.3,
+    "description": "Pack of ten smooth-writing gel pens in assorted colours."
+  }
+]
